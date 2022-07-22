@@ -1,3 +1,3 @@
 # Endesa-VR-Living-Lab
 
-Repositorio para el trabajo final de grado Simulación en Realidad Virtual de un Living-Lab
+Repositorio para la aplicación de realidad virtual sobre la simulación de un Living-Lab
